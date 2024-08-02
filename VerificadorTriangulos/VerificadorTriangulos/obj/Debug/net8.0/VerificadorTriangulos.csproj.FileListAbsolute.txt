@@ -1,0 +1,14 @@
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.exe
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.deps.json
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.runtimeconfig.json
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.dll
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\bin\Debug\net8.0\VerificadorTriangulos.pdb
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.AssemblyInfoInputs.cache
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.AssemblyInfo.cs
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.dll
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\refint\VerificadorTriangulos.dll
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.pdb
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\VerificadorTriangulos.genruntimeconfig.cache
+C:\Users\NATALIA\Documents\CertificacionII\VerificadorTriangulos\VerificadorTriangulos\obj\Debug\net8.0\ref\VerificadorTriangulos.dll
